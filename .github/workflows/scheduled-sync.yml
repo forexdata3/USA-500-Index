@@ -22,7 +22,7 @@ permissions:
   contents: read
 
 env:
-  DEFAULT_SYMBOLS: "S&P 500"
+  DEFAULT_SYMBOLS: "usa500idxusd"
   HF_DATASET: Esmaeil9ss/Tickdata
 
 jobs:
